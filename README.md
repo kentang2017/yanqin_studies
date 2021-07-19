@@ -257,8 +257,8 @@
     108. （近）鍾林晃 – 鍾氏分禽揭秘
     109. （近）黃雄傳 - 天帝太陽過宮行度用法訣二十八宿演禽
  
-# 微信公眾號
-![alt text](https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true)
+# 聯繫方式
+![看倏爍](https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true)
  
 # License
 The MIT License(http://opensource.org/licenses/MIT)
