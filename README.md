@@ -44,8 +44,100 @@
 | 1496AD  | 池本理  | 禽遁大全               | Content Cell  |
 | 1540AD  | 碩峰散人  | 三世演禽               | Content Cell  |
 | 1555AD  | 邵義德  | 演禽秘法               | Content Cell  |
-
-
+| 1559AD  | 唐順之  | 第七秘法-演禽戰法               | Content Cell  |
+| 1566AD  | 郎瑛  | 七修類稿卷五              | Content Cell  |
+| 1566AD  | 佚名  | 禽總法 (二冊)              | Content Cell  |
+| 1566AD  | 佚名  | 演禽圖訣                  | Content Cell  |
+| 1566AD  | 佚名  | 演禽通纂                 | Content Cell  |
+| 1573AD  | 何承勛  | 萬化仙禽             | Content Cell  |
+| 1573AD  | 徐之鏌  | 新刻官板禽奇盤例定局造化神樞 (五卷)             | Content Cell  |
+| 1573AD  | 徐之鏌 | 選擇禽奇盤例定局 (五卷)    | Content Cell  |
+| 1588AD  | 何勳  | 諸葛武侯祕演禽書             | Content Cell  |
+| 1588AD  | 喻冕  | 新刊一行禪師演禽命書 (六卷)            | Content Cell  |
+| 1588AD  | 胡以信  | 禽遁秘旨-欽天監明傳秘指日用通書   | Content Cell  |
+| 1588AD  | 葉貴  | 新刊李碧泉注解演禽青囊奧訣            | Content Cell  |
+| 1588AD  | 葉貴  | 新刊漢諸葛武侯秘演禽書 （十二卷）            | Content Cell  |
+| 1588AD  | 張逢隆 | 新編曆法大旨演禽大成通書            | Content Cell  |
+| 1588AD  | 徐以敬 | 秘傳星禽易簡奇門精要            | Content Cell  |
+| 1597AD  | 李克家  | 戎事類占卷七          | Content Cell  |
+| 1598AD  | 林紹周  | 新刊理氣詳辯纂要三台便覽通書正宗卷二十    | Content Cell  |
+| 1602AD  | 王肯堂  | 年月日時禽起例-鬱岡齋筆塵   | Content Cell  |
+| 1607AD  | 佚名    | 二十八宿旁通曆仰視命星明暗扶衰度厄法 -道藏太玄金鎖流珠引卷二十一    | Content Cell  |
+| 1612AD  | 朱國祥  | 新刻劉伯溫萬化仙禽    | Content Cell  |
+| 1621AD  | 茅元儀  | 武備志卷十百八七 占度載 伏斷日    | Content Cell  |
+| 1623AD  | 喻龍德  | 禽遁蜃樓山象-秘書兵衡    | Content Cell  |
+| 1628AD  | 劉基(托)  | 三才演禽數    | Content Cell  |
+| 1635AD  | 鄭善夫、鄭奎光、邵捷春  | 演禽法、奇門遁甲法-鄭少谷先生全集卷六    | Content Cell  |
+| 1639AD  | 汪漢謀  | 禽遁七元成局書    | Content Cell  |
+| 1639AD  | 汪漢謀  | 參籌秘書    | Content Cell  |
+| 1643AD  | 梁心聯  | 七元禽宿將頭定訣例    | Content Cell  |
+| 1644AD  | 張松源  | 武侯遁甲全書    | Content Cell  |
+| 1644AD  | 佚名  | 兵禽捷要    | Content Cell  |
+| 1644AD  | 佚名  | 禽書大成    | Content Cell  |
+| 1644AD  | 佚名  | 七元甲子    | Content Cell  |
+| 1644AD  | 佚名  | 禽星年月玄微書    | Content Cell  |
+| 1653AD  | 黃鼎  | 天星禽書秘旨    | Content Cell  |
+| 1671AD  | 魏明遠  | 禽遁總括    | Content Cell  |
+| 1682AD  | 徐發  | 天元歷理全書卷九   | Content Cell  |
+| 1683AD  | 陳沐  | 七元禽演    | Content Cell  |
+| 1683AD  | 陳雯  | 徐氏天統為命禽天元說    | Content Cell  |
+| 1691AD  | 佚名  | 八門禽演碎金經 (三卷)    | Content Cell  |
+| 1691AD  | 佚名  | 禽星直指 (一卷)    | Content Cell  |
+| 1720AD  | 汪紱  | 演宿翻禽- 戊笈談兵╴第五笈 | Content Cell  |
+| 1720AD  | 彭景筠  | 演禽起例-四翼附編卷三  | Content Cell  |
+| 1727AD  | 香月牛山  | 運気論奧太陽直日算法  | Content Cell  |
+| 1727AD  | 張九儀  | 演禽竊要  | Content Cell  |
+| 1773AD  | 佚名  | 黃帝演禽七元三傳心法 | Content Cell  |
+| 1773AD  | 佚名  | 星禽氣神占（一卷）    | Content Cell  |
+| 1773AD  | 佚名  | 星禽妙課（一卷）    | Content Cell  |
+| 1773AD  | 佚名  | 禽宿妙談（十卷）    | Content Cell  |
+| 1773AD  | 佚名  | 大衍二十八宿要訣（一卷）    | Content Cell  |
+| 1773AD  | 佚名  | 和玉秘文禽書    | Content Cell  |
+| 1780AD  | 湖海居士  | 御制禽遁符應經 | Content Cell  |
+| 1799AD  | 佚名  | 禽星擇日書 | Content Cell  |
+| 1799AD  | 佚名  | 禽星選擇書 | Content Cell  |
+| 1799AD  | 佚名  | 演禽奇數奇門寶鑑 | Content Cell  |
+| 1801AD  | 劉基(托) | 八門禽遁大全 | Content Cell  |
+| 1804AD  | 佚名 | 禽星奇門 | Content Cell  |
+| 1823AD  | 董祐誠 | 與陳靜菴書-董方立文甲集-卷下 | Content Cell  |
+| 1830AD  | 佚名 | 奇門例 | Content Cell  |
+| 1830AD  | 佚名 | 奇門秘旨 | Content Cell  |
+| 1850AD  | 佚名 | 禽星手抄星宿推算古本手抄本 | Content Cell  |
+| 1850AD  | 佚名 | 白鹿仙傳演禽備要 | Content Cell  |
+| 1850AD  | 佚名 | 演禽相法 | Content Cell  |
+| 1850AD  | 佚名 | 過度天盤神數 | Content Cell  |
+| 1851AD  | 姚承恩 | 擇吉禽要 | Content Cell  |
+| 1852AD  | 薛鳳祚 | 甲遁真授秘集 | Content Cell  |
+| 1857AD  | 佚名 | 新鐫演禽三世相法 | Content Cell  |
+| 1860AD  | 福安康 | 太白兵備统宗寶鑑卷七 | Content Cell  |
+| 1864AD  | 佚名 | 禽星訣 | Content Cell  |
+| 1864AD  | 馬祟德 | 增刻演禽秘訣 | Content Cell  |
+| 1872AD  | 佚名 | 北法變化禽書 | Content Cell  |
+| 1872AD  | 雪廬翁  | 演禽神數 | Content Cell  |
+| 1875AD  | 佚名  | 演禽龍眼感化真經| Content Cell  |
+| 1876AD  | 嘯道人  | 太古演禽 | Content Cell  |
+| 1876AD  | 三緘老人  | 祕授八門演禽神數 | Content Cell  |
+| 1890AD  | 佚名  | 二十八宿取用宜忌口訣 | Content Cell  |
+| 1890AD  | 佚名  | 天星演禽日課秘訣 | Content Cell  |
+| 1902AD  | 佚名  | 禽演萬化經（十卷） | Content Cell  |
+| 1902AD  | 佚名  |二十八宿演禽算走失法 | Content Cell  |
+| 1915AD  | 脇田愛山 (日)   | 家庭日用廿八宿吉凶寶鑒（日文） | Content Cell  |
+| 1924AD  | 高島易断所本部神宮館 (日)  | 二十八宿詳解 : 吉凶速断（日文） | Content Cell  |
+| 1925AD  | 金熙斗 (韓)   | 演禽 (抄本) | Content Cell  |
+| 1937AD  | 日蓮大士 (日)   | 二十八宿日割鑑 （日文） | Content Cell  |
+| 1941AD  | 佚名   | 六壬斗首演禽訣書 | Content Cell  |
+| 1991AD  | 北條一鴻 (日)    | 天文遁甲（日文） | Content Cell  |
+| 1995AD  | 劉學誠   | 演禽神數 | Content Cell  |
+| 1999AD  | 開元先生   | 黄帝始八門演禽秘本 | Content Cell  |
+| 2000AD  | 周師乾   | 禽星择吉秘法 | Content Cell  |
+| 2000AD  | 周師乾   | 禽星六爻八卦測彩票指南秘傳 | Content Cell  |
+| 2000AD  | 周師乾   | 禽星測運秘法 | Content Cell  |
+| 2000AD  | 周師乾   | 禽星预测六爻八卦法 | Content Cell  |
+| 2002AD  | 胡志達   | 翻禽倒将十二講 | Content Cell  |
+| 2006AD  | 黃雄傳    | 天帝太陽過宮行度用法訣二十八宿演禽 | Content Cell  |
+| 2012AD  | 李立賢 (蒼龍居士)    | 禽罡擇日 | Content Cell  |
+| 2013AD  | 鍾林晃     | 鍾氏分禽揭秘 | Content Cell  |
+| 2018AD  | 洪應奎     | 七層斗首演禽擇日 | Content Cell  |
 
 
 
