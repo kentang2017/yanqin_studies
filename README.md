@@ -7,6 +7,48 @@
 | 269BC  | 佚名  | 放馬灘簡三十六禽占                     | Content Cell  |
 | 222AD  | 支謙  | 摩登伽經                         | Content Cell  |
 | 306AD  | 三藏竺法護  | 舍頭諫太子二十八宿經                         | Content Cell  |
+| 713AD  | 一行  | 七曜星辰別行法                         | Content Cell  |
+| 759AD  | 大廣智三藏沙門不空  | 文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經                         | Content Cell  |
+| 1322AD  | 佚名  | 星禽進退歌                   | Content Cell  |
+| 1342AD  | 佚名  | 奇門秘覆                  | Content Cell  |
+| 1345AD  | 佚名  | 七曜氣神星禽經（三卷）      | Content Cell  |
+| 1345AD  | 佚名  | 二十八宿行度口訣           | Content Cell  |
+| 1345AD  | 佚名  | 六壬七曜氣神星禽經（一卷）   | Content Cell  |
+| 1345AD  | 佚名  | 占課禽宿情性訣（一卷）   | Content Cell  |
+| 1345AD  | 佚名  | 司馬先生三十六禽歌（一卷） | Content Cell  |
+| 1345AD  | 佚名  | 張氏六壬用三十六禽秘訣（三卷）   | Content Cell  |
+| 1345AD  | 佚名  | 星禽氣神占（一卷）              | Content Cell  |
+| 1345AD  | 佚名  | 星禽妙課（一卷）                | Content Cell  |
+| 1345AD  | 佚名  | 禽宿妙談（十卷）                | Content Cell  |
+| 1345AD  | 佚名  | 大衍二十八宿要訣（一卷）   | Content Cell  |
+| 1345AD  | 佚名  | 星禽課（一卷）            | Content Cell  |
+| 1345AD  | 佚名  | 納禽宿經                 | Content Cell  |
+| 1345AD  | 廖惟馨  | 星禽曆                    | Content Cell  |
+| 1382AD  | 趙宜真 | 雷霆箭煞年月樞機）         | Content Cell  |
+| 1430AD  | 佚名  | 禽演新書                  | Content Cell  |
+| 1441AD  | 佚名  | 七曜禽經                 | Content Cell  |
+| 1441AD  | 佚名  | 二十八宿直日占                  | Content Cell  |
+| 1441AD  | 佚名  | 星禽演法                  | Content Cell  |
+| 1441AD  | 佚名  | 演禽定鈐 (三冊)            | Content Cell  |
+| 1441AD  | 佚名  | 演禽心法                 | Content Cell  |
+| 1441AD  | 佚名  | 直禽要訣                 | Content Cell  |
+| 1441AD  | 佚名  | 禽書                     | Content Cell  |
+| 1441AD  | 佚名  | 禽演                 | Content Cell  |
+| 1441AD  | 佚名  | 禽演正經                  | Content Cell  |
+| 1441AD  | 佚名  | 禽演真經                  | Content Cell  |
+| 1482AD  | 熊宗立  | 鰲頭通書                 | Content Cell  |
+| 1482AD  | 熊宗立  | 類編曆法通書大全 卷十五    | Content Cell  |
+| 1482AD  | 熊宗立  | 金台類編暦法通書大全 卷十六 | Content Cell  |
+| 1495AD  | 頤菴  | 七元甲子番禽軍占 （七卷） | Content Cell  |
+| 1496AD  | 池本理  | 禽星易見                | Content Cell  |
+| 1496AD  | 池本理  | 禽遁大全               | Content Cell  |
+| 1540AD  | 碩峰散人  | 三世演禽               | Content Cell  |
+| 1555AD  | 邵義德  | 演禽秘法               | Content Cell  |
+
+
+
+
+
 
     1. （秦漢）放馬灘簡三十六禽占
     2. （東吳）支谦-摩登伽經
