@@ -255,3 +255,8 @@
     107. （近）北條一鴻 – 天文遁甲（日文）
     108. （近）鍾林晃 – 鍾氏分禽揭秘
     109. （近）黃雄傳 - 天帝太陽過宮行度用法訣二十八宿演禽
+ 
+# License
+The MIT License(http://opensource.org/licenses/MIT)
+
+Please feel free to use and contribute to the development. 
