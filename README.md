@@ -83,7 +83,7 @@
 | 1653AD  | 黃鼎  | 天星禽書秘旨    | Content Cell  |
 | 1671AD  | 魏明遠  | 禽遁總括    | Content Cell  |
 | 1682AD  | 徐發  | 天元歷理全書卷九   | Content Cell  |
-| 1683AD  | 陳沐  | 七元禽演    | Content Cell  |
+| 1683AD  | 陳沐  | 七元禽演    | 記載於《江南通志》卷一百九十二   |
 | 1683AD  | 陳雯  | 徐氏天統為命禽天元說    | Content Cell  |
 | 1691AD  | 佚名  | 八門禽演碎金經 (三卷)    | Content Cell  |
 | 1691AD  | 佚名  | 禽星直指 (一卷)    | Content Cell  |
