@@ -166,7 +166,7 @@
 # 相關軟件開發列表
 | 年份          | 作者            | 聯繫方式                     | 軟件名稱      | 特色 / 備註      |  連結     |
 | ------------- | ------------- | ---------------------------- | ------------- | ------------- |   ------------- |
-| 2021          | Ken Tang (本人)  | 1685282279 (QQ)             | 演禽         |                 | https://play.google.com/store/apps/detailsid=com.kentang.yincome&hl=zh_HK&gl=US  |
+| 2021          | Ken Tang (本人)  | 1685282279 (QQ)             | 演禽         |                 | [連接](https://play.google.com/store/apps/detailsid=com.kentang.yincome&hl=zh_HK&gl=US)  |
  
 # 聯繫方式
 ![看倏爍](https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true)
