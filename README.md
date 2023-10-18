@@ -210,7 +210,7 @@
 | 2021          | 張良吉  | [命理網](https://www.facebook.com/DestinyNetSocial/?fbclid=IwAR20DDd8h7BZtoeXx7x9m5McKWubOAgYXOUlQvYegFR69VsOYgFdtfIDSF4)  | 人禽星命盤  |  網頁版本 | [連接](https://destiny.to/app/lunarStation/Divine?ym=default&sho=false&hb=e&cy=a&dh=default&cdaz=true&mn=st&yearType=YEAR_SOLAR&yearEpoch=EPOCH_1564&monthAlgo=MONTH_SOLAR_TERMS&lsM_sel=ANIMAL_EXPLAINED&lsH_Sel=FIXED&time=RyHJjSibG1DA2QLePUj%2BKzkcsrLXzSLh1hd1EH7Hw88%3D&loc=7mGNk5LlUSvp%2BvDs7DScyDo7jrBtZvKSG7cqwRkEzK8%3D&tz=Asia/Taipei&gender=M&METHOD=SPECIFIED&place=%E8%87%BA%E5%8C%97%E5%BA%9C%E5%9F%8E%E6%9D%B1%E9%96%80,+%E6%9D%B1%E9%96%80%E5%9C%93%E7%92%B0,+%E5%BB%BA%E5%9C%8B%E9%87%8C,+%E4%B8%AD%E6%AD%A3%E5%8D%80,+%E5%9F%8E%E5%85%A7,+%E8%87%BA%E5%8C%97%E5%B8%82,+10001,+%E8%87%BA%E7%81%A3&result=true) |
 | 2021          | Ken Tang (本人)  | 1685282279 (QQ)             | 演禽         |  Android版本，已在google play store上架         | [連接](https://play.google.com/store/apps/details?id=com.kentang.yincome)  |
 | 2021          | 劉國棟   | 6098577 (QQ)             | 演禽         |  微信小程序，為另一術數小程序「算卦啦」開發者         |   |
-| 2019          |  Amtb Fate  |  amtbfate@gmail.com    | 二十八宿萬年曆        |  Android版本，在google play store上架   |   |
+| 2019          | Amtb Fate  |  amtbfate@gmail.com    | 二十八宿萬年曆        |  Android版本，在google play store上架   |   |
  
 # 聯繫方式
 ![看倏爍](https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true)
