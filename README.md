@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/kentang2017/count.svg)
+
 <a name="readme-top"></a>
 <details>
   <summary>目錄</summary>
