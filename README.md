@@ -6,6 +6,10 @@
   <p><em>A comprehensive research archive on Yanqin (演禽) — an ancient Chinese esoteric art of divination based on the 28 lunar mansions (二十八宿), the five elements, and the seven luminaries.</em></p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http://opensource.org/licenses/MIT)
+  [![GitHub stars](https://img.shields.io/github/stars/kentang2017/yanqin_studies?style=social)](https://github.com/kentang2017/yanqin_studies/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/kentang2017/yanqin_studies?style=social)](https://github.com/kentang2017/yanqin_studies/network/members)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/kentang2017/yanqin_studies)](https://github.com/kentang2017/yanqin_studies/commits)
+  [![GitHub issues](https://img.shields.io/github/issues/kentang2017/yanqin_studies)](https://github.com/kentang2017/yanqin_studies/issues)
 </div>
 
 ---
@@ -14,7 +18,22 @@
 
 ---
 
-<details>
+<div align="center">
+
+`二十八宿` `五行` `七曜` `禽遁` `擇吉` `祿命` `兵法` `占卜` `古籍`
+`28 Lunar Mansions` `Five Elements` `Seven Luminaries` `Divination` `Chinese Astrology` `Historical Texts`
+
+</div>
+
+### 📊 亮點 Highlights
+
+| 📚 收錄古今文獻 Texts Catalogued | 🕰️ 時間跨度 Time Span | 🌏 涉及地域 Regions | 🏷️ 演禽分類 Categories |
+| :---: | :---: | :---: | :---: |
+| **190+** | **269 BC – 2021 AD** | 中國、日本、韓國、印度 | **11** |
+
+---
+
+<details open>
   <summary><strong>📑 目錄 Table of Contents</strong></summary>
   <ol>
     <li>
@@ -108,6 +127,10 @@
 
 
 # 古今演禽書目
+
+> 以下書目按年份排列，涵蓋自戰國時期（公元前269年）至當代（2021年）的演禽相關文獻共190餘種。
+>
+> The following bibliography is arranged chronologically, covering 190+ texts related to Yanqin from the Warring States period (269 BC) to the present day (2021 AD).
 
 | 年份          | 作者           | 書名                                            | 備註       |
 | ------------- | ------------- | --------------------------------------------- | ------------- |
