@@ -1,19 +1,34 @@
-
 <a name="readme-top"></a>
+
+<div align="center">
+  <h1>📜 演禽研究 Yanqin Studies</h1>
+  <p><strong>演禽術數古籍及歷史研究資料庫</strong></p>
+  <p><em>A comprehensive research archive on Yanqin (演禽) — an ancient Chinese esoteric art of divination based on the 28 lunar mansions (二十八宿), the five elements, and the seven luminaries.</em></p>
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http://opensource.org/licenses/MIT)
+</div>
+
+---
+
+> **About this project (English):** Yanqin (演禽), also known as *Qindun* (禽遁) or the "Art of Star-Animals," is an ancient Chinese metaphysical system that combines the 28 lunar mansions with the five elements (metal, wood, water, fire, earth), seven luminaries (Sun, Moon, and five planets), and animal imagery. It has been applied to divination, fate calculation, military strategy, date selection, and ritual practices since the Qin–Han period (3rd century BCE). This repository collects historical texts, bibliographies, and scholarly commentary spanning over two millennia of Yanqin tradition — from the Fangmatan bamboo slips of the Warring States era to modern publications.
+
+---
+
 <details>
-  <summary>目錄</summary>
+  <summary><strong>📑 目錄 Table of Contents</strong></summary>
   <ol>
     <li>
-      <a href="#前言">前言</a>
+      <a href="#前言">前言 Preface</a>
       <ul>
-        <li><a href="#演禽分類">演禽分類</a></li>
+        <li><a href="#演禽分類">演禽分類 Classification</a></li>
       </ul>
       <ul>
-        <li><a href="#史冊記載會演禽的古人">史冊記載會演禽的古人</a></li>
+        <li><a href="#史冊記載會演禽的古人">史冊記載會演禽的古人 Historical Practitioners</a></li>
       </ul>
     </li>
-    <li><a href="#古今演禽書目">古今演禽書目</a></li>
-    <li><a href="#聯繫方式">聯繫方式</a></li>
+    <li><a href="#古今演禽書目">古今演禽書目 Bibliography</a></li>
+    <li><a href="#聯繫方式">聯繫方式 Contact</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
@@ -289,10 +304,26 @@
 
 
 # 聯繫方式
-![看倏爍](https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true)
+
+歡迎透過以下方式聯繫 / Feel free to reach out:
+
+<div align="center">
+  <img src="https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true" alt="WeChat QR Code - 看倏爍" width="200"/>
+  <p><em>微信公眾號：看倏爍</em></p>
+</div>
+
+如果您對演禽研究有任何問題、建議或資料補充，歡迎提交 [Issue](https://github.com/kentang2017/yanqin_studies/issues)。
+
+If you have questions, suggestions, or additional materials related to Yanqin studies, please feel free to open an [Issue](https://github.com/kentang2017/yanqin_studies/issues).
+
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
- 
+
+---
+
 # License
-The MIT License(http://opensource.org/licenses/MIT)
-Please feel free to use and contribute to the development. 
+
+This project is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Please feel free to use and contribute to the development.
+
 <p align="right">(<a href="#readme-top">回到頂部</a>)</p>
