@@ -328,12 +328,7 @@
 
 # 聯繫方式
 
-歡迎透過以下方式聯繫 / Feel free to reach out:
-
-<div align="center">
-  <img src="https://github.com/kentang2017/yanqin_studies/blob/master/pic/qrcode_for_gh_1f2187149437_258.jpg?raw=true" alt="WeChat QR Code - 看倏爍" width="200"/>
-  <p><em>微信公眾號：看倏爍</em></p>
-</div>
+歡迎透過以下方式聯繫 / Feel free to reach out (wechat id: gnatnek):
 
 如果您對演禽研究有任何問題、建議或資料補充，歡迎提交 [Issue](https://github.com/kentang2017/yanqin_studies/issues)。
 
